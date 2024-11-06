@@ -1,0 +1,311 @@
+.logoimg{
+    width: 50%;
+    height: 25px;
+}
+.category{
+ 
+    height: auto;
+    width: 100%;
+    position: relative;
+    margin-top: -358px;
+    background-color: white;
+    opacity: 95%;
+    z-index: 0;
+}
+
+.box-main{
+   
+    height: 300px;
+    width: 100%;
+    
+    
+}
+.inner-box{
+ 
+    height: 200px;
+    width:20%;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 10px;
+   
+   
+}
+.inbox{
+    margin-left: 300px;
+    margin-right: auto;
+}
+.red-box{
+    background-color:red;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+.red-box2{
+    background-color:darkred;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+.bgimg{
+    height: 0px;
+    width: 100%;
+
+}
+.img{
+    height: 20%;
+    width: 100%;
+}
+
+
+
+
+
+
+
+.logimg{
+    margin-bottom: 5px;
+}
+
+.m-body{
+    background:blur;
+    object-fit: cover;
+}
+.mb{
+    padding: 0px;
+}
+.modal{
+    --bs-modal-padding: 0;
+}
+
+.category-sign{
+    height: 500px;
+    width: 100%;
+  
+    display: flex;
+}
+.inner-left{
+    height:100%;
+    width: 50%;
+    background-color:whitesmoke;
+}
+.inner-right{  
+    height: 400px;
+    width: 50%;
+
+}
+
+.small{
+    font-size: x-large;
+}
+.gimg{
+    height: 20px;
+    margin-top: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+.wbg{
+background-color: whitesmoke;
+height: auto;
+}
+
+.container1{
+    align-items: center;
+    height: auto;
+   
+    justify-content: space-between;
+
+}
+.book-category{
+    width: 100%;
+    height:auto;
+    background-color: whitesmoke;
+}
+.book-left{
+    width: 25%;
+    background-color: white;
+    height: auto;
+    border-radius: 10px;
+}
+.book-right{
+    background-color: whitesmoke;
+    width:75%;
+    height: auto;
+    
+}
+.cbox{
+    background-color: whitesmoke;
+}
+.bbox{
+    background-color: white;
+}
+.right-offer{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    
+}
+.right-offer img{
+    height: 100%;
+}
+.right-offer1{
+    width: 100%;
+    height: 20%;
+    align-items: center;
+    background-color: rgb(255, 229, 229);
+    
+}
+.rof1{
+    width:15% ;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 45px;
+    
+}
+.rof2{
+    width: 65%;
+    height: 150px;
+    text-align: left;
+   
+}
+.rof3{
+    width:15% ;
+    height: 150px;
+ 
+    
+    
+}
+.right-offer2{
+    width: 100%;
+    height: auto;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.rof11{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+.rof111{
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+.rof22{
+  width: 20%;
+  height: 200px;
+  text-align: right;
+  
+}
+*{
+    margin: 0px;
+}
+.seatsfont{
+    font-size: small;
+}
+.rof11s{
+    width: 100%;
+    height: 85%;
+    background-color: white;
+    
+   
+}
+.rof11s2{
+    width: 100%;
+    height:15%;
+    background-color: white;
+}
+.rating-box{
+    width: 95%;
+    height: 30px;
+    
+    
+}
+.inner-rating{
+    width: 50%;
+    height: 30px;
+    background-color: aliceblue;
+}
+
+.pricebox{
+    width: 70%;
+}
+.pricebox p{
+    font-size: small;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+.searchbar{
+    background-color:  #551615;;
+    width: 100%;
+}
+.cb{
+    background-color: whitesmoke;
+    height: 425px;
+ 
+    
+}
+
+
+
+
+
+.Bar{
+    width: 100%;
+    height: 100px;
+    background-color: #551615;
+}
+.detailsbox{
+    position: relative;
+    margin-top: -35px;
+    width: 60%;
+    height: 350px;
+    background-color: white;
+    border-radius: 5px;
+}
+.btn-save{
+    width: 20%;
+    height: 70px;
+}
+.btn-bg-smoke {
+    background-color: red;
+}
+.inner-Bar{
+    margin-left: 340px;
+    margin-bottom: 25px;
+    height: auto;
+}
+.searchbarin{
+    background-color:  #551615;
+}
+
+.pay-btn{
+    background-color: rgb(255, 245, 110);
+    width: 100%;
+    height: 70%;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 245, 110);
+    
+}

@@ -1,0 +1,119 @@
+.App {
+  text-align: center;
+}
+
+.toast-success {
+  background-color: #28a745;
+  color: #fff;
+}
+/* Add this CSS to your App.css or a relevant stylesheet */
+.Toastify__toast-container {
+  z-index: 9999; /* Adjust as needed */
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.a{
+ display: flex;
+ justify-content: center;
+ margin-bottom: 80px;
+}
+.b{
+  box-sizing: border-box;
+  padding: 10px;
+  border-radius: 10px;
+}
+.ac{
+  display: flex;
+  overflow-x: scroll;
+  height: 175px;
+}
+.ad{
+  margin: 20px;
+  background-color: white;
+}
+.ae{
+  background-color: rgb(227, 227, 227);
+}
+.e{
+  font-size: xx-small;
+}
+.f{
+  
+  height: 150px;
+  padding: 20px;
+}
+.g{
+  font-size: small;
+  margin: auto;
+  margin-left: 30px;
+}
+.h{
+  background-color: rgb(227, 227, 227);
+  border: 1px;
+  border-radius: 5px;
+}
+.j{
+  margin-left: 300px;
+}
+.l{
+  margin-top: -550px;
+  margin-left: 100px;
+}
+.k{
+  display: flex;
+  color: rgb(255, 255, 255);
+  justify-content: center;
+  margin-top: -200px;
+  margin-bottom: 10px;
+  text-shadow: black;
+}
+.m{
+  margin-top: 70px;
+}
+.n{
+  margin-top: 250px;
+  margin-left: -300px;
+}
+
+.hovering:hover{
+ border: 2px solid black;
+ border-radius: 5px ;
+ color: black;
+ 
+}
+
+

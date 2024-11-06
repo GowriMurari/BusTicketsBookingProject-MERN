@@ -1,0 +1,120 @@
+.contact-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .contact-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  
+  .contact-info > div {
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1em;
+  }
+  
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .submit-button:hover {
+    background-color: #555;
+  }
+  /* Set the background image for the contact page */
+.contact-us-container {
+    background-image: url('../images/busbg.jpg'); /* Adjust the path if needed */
+    background-size: cover; /* Ensure the background covers the entire container */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    padding: 20px;
+    color: white;
+     /* Make text color white for better contrast on a dark background */
+  }
+  
+  .contact-info {
+    margin-bottom: 20px;
+  }
+  
+  .contact-info h2 {
+    border-bottom: 2px solid white; /* Optional: adds a white border under headings */
+    padding-bottom: 5px;
+  }
+  
+  .contact-form {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for form */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  } 
+  
+  .submit-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,73 @@
+/* Container for the whole profile page */
+.account-details-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Breadcrumb Navigation */
+  .breadcrumb-nav {
+    background-color: #d2d8df;
+    padding: 10px 20px;
+  }
+  
+  .breadcrumb-inner {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  .breadcrumb-link {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .breadcrumb-divider {
+    margin: 0 8px;
+  }
+  
+  .breadcrumb-current {
+    color: #6c757d;
+  }
+  
+  /* Profile Info Box */
+  .profile-info-box {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .profile-info-title {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  /* Profile Info Content */
+  .profile-info-content {
+
+    justify-content: space-between;
+  }
+  
+  .profile-info-column {
+    width: 45%;
+  }
+  
+  .profile-info-label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #495057;
+  }
+  
+  .profile-info-field {
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 16px;
+    font-size: 16px;
+  }
+  
